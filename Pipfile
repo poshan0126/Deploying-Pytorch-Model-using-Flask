@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 flask = "*"
-torch = "*"
+torch = "==1.0.0"
 torchvision = "*"
 numpy = "*"
 pillow = "*"
